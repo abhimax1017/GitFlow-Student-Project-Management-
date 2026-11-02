@@ -1,0 +1,8 @@
+{
+  "name": "GITFLOW: GitHub-Based Student Project Management System with Gemini AI",
+  "description": "Production-grade, GitHub-native academic project management and version control platform with Gemini AI triage, task generation, interactive Git CLI, and multi-project tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
